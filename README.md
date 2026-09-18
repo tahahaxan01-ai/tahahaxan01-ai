@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Real-Time Helmet Detection System (YOLO26, OpenCV & FastAPI), LLM Prompt Optimizer, and FoodBook application.<br><br>👯 I’m looking to collaborate on<br>Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) open-source projects.<br><br>🤝 I’m looking for help with<br>Advanced LLM orchestration, RAG architectures, and fine-tuning lightweight vision models.<br><br>🌱 I’m currently learning<br>Subword tokenization algorithms (BPE), advanced transformer architectures, and microservice deployment with FastAPI & Supabase.<br><br>💬 Ask me about<br>Machine learning workflows, deep learning pipelines, NLP techniques, and computer vision model optimization.<br><br>⚡ Fun fact<br>I built a custom Byte Pair Encoder from scratch to deeply understand how modern LLMs process text!
+## 💫 About Me
+
+Hi, I’m **Taha Hassan Khan**, an Artificial Intelligence undergraduate and **AI/ML Engineer** passionate about building practical and intelligent solutions with **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**.
+
+My experience includes developing and deploying AI applications using **Python, Scikit-Learn, TensorFlow, YOLO, OpenCV, FastAPI, Streamlit, SQL, and Supabase**. I enjoy working across the complete AI development lifecycle — from **data preprocessing and model training to evaluation, API development, and application deployment**.
+
+I have worked on projects including **LLMify**, an LLM query optimization and routing system focused on reducing unnecessary prompt tokens while preserving meaning; **FoodBook**, an AI-driven dining discovery and spatial recommendation platform; and **real-time computer vision systems** such as helmet detection and online exam monitoring.
+
+I’m particularly interested in **LLM optimization, RAG systems, Computer Vision, recommendation systems, and production-ready AI applications**. I’m continuously exploring modern AI architectures and ways to make intelligent systems more **efficient, practical, and scalable**.
+
+🚀 **My goal is to turn AI concepts into reliable, real-world applications that solve meaningful problems.**
+
 
 
 ## 🌐 Socials:
